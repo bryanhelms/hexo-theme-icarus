@@ -13,11 +13,12 @@ customize:
         url: images/logo.png
     profile:
         enabled: true # Whether to show profile bar
-        avatar: css/images/avatar.png
+        avatar: css/images/bryan-avatar.png
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
         author: Bryan Helms
         author_title: "Runner, Lifter, Eating Enthusiast"
         location: San Francisco, CA
+        follow: //twitter.com/vonhelmstein
     highlight: monokai
     sidebar: right # sidebar position, options: left, right
     thumbnail: false # enable posts thumbnail, options: true, false
